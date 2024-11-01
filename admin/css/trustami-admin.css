@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .footer-widget-1 .grid-parent .grid-50 {
+            width: 100% !important;
+            padding-left: 10px;
+            padding-right: 10px;
+      }

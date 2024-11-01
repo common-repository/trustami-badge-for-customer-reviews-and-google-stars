@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: de\n"
+
+msgid "Trustami Trust Badge for WooCommerce"
+msgstr "Trustami Vertrauenssiegel für WooCommerce"
+
+msgid "https://www.trustami.com/en"
+msgstr "https://www.trustami.com"
+
+msgid "https://app.trustami.com/start/woocommerce/en"
+msgstr "https://app.trustami.com/features/woocommerce"
+
+msgid "Trustami Badge for Customer Reviews and Google Stars"
+msgstr "Trustami Siegel für Kundenbewertungen und Google Sterne"
+
+msgid "Trustami plugin for WooCommerce. Trustami - One badge for all your customer reviews. Trustami collects, analyzes and presents a users’ distributed social media data in a standardized and user-friendly format to fill the need for trust in online interactions. Trustami enables users to collect ratings and reviews from all networks and show a trust badge."
+msgstr "Trustami Plugin für WooCommerce. Alle Ihre Kundenbewertungen auf einen Blick. Mit dem Vertrauenssiegel von Trustami sammeln Sie alle Ihre existierenden Bewertungen an einem Ort aus über alle Quellen. Trustami bietet einen einzigartigen Service, bei dem die verstreuten Bewertungen eines Händlers automatisch verknüpft, aktualisiert und verifiziert werden."
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "https://app.trustami.com/manuals/WooCommerce?lang=en"
+msgstr "https://app.trustami.com/manuals/WooCommerce"
+
+msgid "Success: the Trustami badge has been added."
+msgstr "Erfolg: das Trustami Siegel wurde hinzugefügt."
+
+msgid "Trustami container that displays reviews in a box."
+msgstr "Trustami container, der die Reviews in einer Box anzeigt."
+
+msgid "Done."
+msgstr "Fertig."
+
+msgid "Trustami Widget Configuration"
+msgstr "Trustami Widget Konfiguration"
+
+msgid "Trustami ID (*)"
+msgstr "Trustami ID (*)"
+
+msgid "Your Trustami ID can be found in your user account at app.trustami.com under the Settings menu option."
+msgstr "Ihre Trustami ID finden Sie in Ihrem Benutzerkonto auf app.trustami.com unter dem Menüpunkt Einstellungen."
+
+msgid "Trustami User ID (*)"
+msgstr "Trustami User ID (*)"
+
+msgid "<ins><i>Hint</ins>:</i> If the selected trust badge is not displayed, it can be activated by logging in to <a href=\"https://app.trustami.com/start/woocommerce/en\" target=\"_blank\">app.trustami.com</a>"
+msgstr "<ins><i>Hinweis</ins>:</i> Sollte das ausgewählte Siegel nicht angezeigt werden, müssen Sie dieses zusätzlich im Mitgliederbereich unter <a href=\"https://app.trustami.com/features/woocommerce\" target=\"_blank\">app.trustami.com</a> aktivieren"
+
+msgid "Language"
+msgstr "Sprache"
+
+msgid "German"
+msgstr "Deutsch"
+
+msgid "English"
+msgstr "Englisch"
+
+msgid "Google Stars"
+msgstr "Google Sterne"
+
+msgid "Display Google Stars."
+msgstr "Google Sterne anzeigen."
+
+msgid "Where should the Trust Badge be displayed?"
+msgstr "Wo soll das Vertrauenssiegel platziert werden?"
+
+msgid "Trust Badge Position"
+msgstr "Position des Vertrauensiegel"
+
+msgid "General trust badge display options"
+msgstr "Allgemeine Anzeigeoptionen für das Vertrauenssiegel"
+
+msgid "Display in the header"
+msgstr "Im Header anzeigen"
+
+msgid "Display in the product description"
+msgstr "In der Produktbeschreibung anzeigen"
+
+msgid "Display in the footer"
+msgstr "Im Footer anzeigen"
+
+msgid "Display trust badge text in the footer"
+msgstr "Vertrauenssiegel als Text im Footer anzeigen"
+
+msgid "Display trust badge comments in the footer"
+msgstr "Vertrauenssiegel mit Kommentaren im Footer anzeigen"
+
+msgid "Trust Badge Standard"
+msgstr "Vertrauenssiegel Standard"
+
+msgid "Trust Badge Mini"
+msgstr "Vertrauenssiegel Mini"
+
+msgid "Trust Badge Box"
+msgstr "Vertrauenssiegel Box"
+
+msgid "Trust Badge Box (recommended)"
+msgstr "Vertrauenssiegel Box (empfohlen)"
+
+msgid "Trust Badge Mini (recommended)"
+msgstr "Vertrauenssiegel Mini (empfohlen)"
+
+msgid "Trust Badge Standard (recommended)"
+msgstr "Vertrauenssiegel Standard (empfohlen)"
+
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+msgid "Display trust badge overlay"
+msgstr "Vertrauenssiegel mitlaufend anzeigen"
+
+msgid "Display trust badge frame"
+msgstr "Vertrauenssiegel Leiste anzeigen"
+
+msgid "Display trust badge list"
+msgstr "Vertrauenssiegel Modul anzeigen"
+
+msgid "Display trust badge sticker"
+msgstr "Vertrauenssiegel Sticker anzeigen"
+
+msgid "Display trust badge button"
+msgstr "Vertrauenssiegel Button anzeigen"
+
+msgid "Display trust badge social"
+msgstr "Vertrauenssiegel Social anzeigen"
+
+msgid "Display trust badge duo"
+msgstr "Vertrauenssiegel Duo anzeigen"
+
+msgid "Display trust badge stars"
+msgstr "Vertrauenssiegel Sterne anzeigen"
+
+msgid "Display Shopauskunft trust badge"
+msgstr "Shopauskunft Vertrauenssiegel anzeigen"
+
+msgid "Trust Badge Sticker"
+msgstr "Vertrauenssiegel Sticker"
+
+msgid "Trust Badge Button"
+msgstr "Vertrauenssiegel Button"
+
+msgid "Trust Badge Social"
+msgstr "Vertrauenssiegel Social"
+
+msgid "Trust Badge Duo"
+msgstr "Vertrauenssiegel Duo"
+
+msgid "Trust Badge Stars"
+msgstr "Vertrauenssiegel Sterne"
+
+msgid "Trust Badge Comments"
+msgstr "Vertrauenssiegel mit Kommentaren"
+
+msgid "Shopauskunft Trust Badge"
+msgstr "Shopauskunft Vertrauenssiegel"
+
+msgid "Trustami Trust Badge Standard"
+msgstr "Trustami Vertrauenssiegel Standard"
+
+msgid "Trustami Trust Badge Text Only"
+msgstr "Trustami Vertrauenssiegel als Text"
+
+msgid "Trustami Trust Badge Button"
+msgstr "Trustami Vertrauenssiegel Button"
+
+msgid "Trustami Trust Badge Box"
+msgstr "Trustami Vertrauenssiegel Box"
+
+msgid "Trustami Trust Badge Mini"
+msgstr "Trustami Vertrauenssiegel Mini"
+
+msgid "Trustami Trust Badge Sticker"
+msgstr "Trustami Vertrauenssiegel Sticker"
+
+msgid "Trustami Trust Badge Social"
+msgstr "Trustami Vertrauenssiegel Social"
+
+msgid "Trustami Trust Badge Duo"
+msgstr "Trustami Vertrauenssiegel Duo"
+
+msgid "Trustami Trust Badge Stars"
+msgstr "Trustami Vertrauenssiegel Sterne"
+
+msgid "Trustami Trust Badge Comments"
+msgstr "Trustami Vertrauenssiegel mit Kommentaren"
+
+msgid "Trustami Shopauskunft Trust Badge"
+msgstr "Trustami Shopauskunft Vertrauenssiegel"
+
+msgid "Trustami Standard Widget."
+msgstr "Trustami Vertrauenssiegel Standard Widget."
+
+msgid "Trustami Text Badge Widget."
+msgstr "Trustami Vertrauenssiegel als Text Widget."
+
+msgid "Trustami Button Widget."
+msgstr "Trustami Vertrauenssiegel Button Widget."
+
+msgid "Trustami Box Widget."
+msgstr "Trustami Vertrauenssiegel Box Widget."
+
+msgid "Trustami Mini Widget."
+msgstr "Trustami Vertrauenssiegel Mini Widget."
+
+msgid "Trustami Sticker Widget."
+msgstr "Trustami Vertrauenssiegel Sticker Widget."
+
+msgid "Trustami Social Widget."
+msgstr "Trustami Vertrauenssiegel Social Widget."
+
+msgid "Trustami Duo Widget."
+msgstr "Trustami Vertrauenssiegel Duo Widget."
+
+msgid "Trustami Stars Widget."
+msgstr "Trustami Vertrauenssiegel Sterne Widget."
+
+msgid "Trustami Comments Widget."
+msgstr "Trustami Vertrauenssiegel mit Kommentaren Widget."
+
+msgid "Trustami Shopauskunft Widget."
+msgstr "Trustami Shopauskunft Vertrauenssiegel Widget."
+
+msgid "Custom Data Attribute"
+msgstr "Custom Data Attribut"
+
+msgid "For more information please contact our Trustami support team."
+msgstr "Weitere Informationen erhalten Sie vom Trustami-Supportteam."
